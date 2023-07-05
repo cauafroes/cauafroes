@@ -1,7 +1,4 @@
 ### Bem vindo 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauafroes&theme=dracula&layout=compact)](https://github.com/cauafroes/github-readme-stats)
-
 <!--
 **cauafroes/cauafroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
